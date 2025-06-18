@@ -39,7 +39,7 @@ Guess the secret number between 1 and 100 within 10 tries!
 
 ````bash
    git clone https://github.com/manav1918/guessDNum-FunGame.git
-   cd number-guessing-game
+   cd Number Guessing Game
 ````
 
 2. **Install dependencies**:

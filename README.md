@@ -21,7 +21,8 @@ Guess the secret number between 1 and 100 within 10 tries!
 
 ## 📸 Screenshots
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](![image](https://github.com/user-attachments/assets/d5a9575a-4b38-40ff-926f-71398d17ebba)
+)
 
 ---
 

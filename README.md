@@ -1,7 +1,7 @@
 
 ````markdown
 # 🎯 Number Guessing Game
-
+````
 A fun and interactive number guessing game built with Python and [ttkbootstrap](https://ttkbootstrap.readthedocs.io/) for a modern Tkinter GUI.  
 Guess the secret number between 1 and 100 within 10 tries!
 
@@ -36,16 +36,17 @@ Guess the secret number between 1 and 100 within 10 tries!
 ## 🛠 Installation
 
 1. **Clone the repository**:
-   ```bash
+
+````bash
    git clone https://github.com/manav1918/guessDNum-FunGame.git
    cd number-guessing-game
 ````
 
 2. **Install dependencies**:
 
-   ```bash
+````bash
    pip install ttkbootstrap playsound
-   ```
+````
 
 3. **Prepare sound files**:
    Ensure the `sounds` folder exists in the same directory as `guessing game_tkinter.py` with the following structure:
